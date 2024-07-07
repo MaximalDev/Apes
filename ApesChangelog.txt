@@ -1,6 +1,4 @@
-*Changelogs, anyone?*
-
-**Version 1.1_Teaser**
+*Changelogs, anyone?* **Version 1.1_Teaser**
 
 New:
 
