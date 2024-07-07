@@ -1,0 +1,15 @@
+*Changelogs, anyone?*
+
+**Version 1.1_Teaser**
+
+New:
+
+- Added Changelog screen
+
+Fixed:
+
+- Footsteps playing twice every time you walk
+- (red)Crashing on Quest Pro(ColorEnd)
+- Loading times from the Raft to the Teaser
+
+We are currently working on adding Mutliplayer back into the game, it should arrive in a few days.
