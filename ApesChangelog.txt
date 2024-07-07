@@ -11,5 +11,3 @@ Fixed:
 - Loading times from the Raft to the Teaser
 
 We are currently working on adding Mutliplayer back into the game, it should arrive in a few days.
-
-https://cdn.discordapp.com/attachments/1139601673283719229/1259575140585439322/PrimalPicture_20240707_212130.png?ex=668c2e43&is=668adcc3&hm=1543283d368e967647a82e516d1f185f8522b16b6fa013bdba9a5377c7770b4e&
