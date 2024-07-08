@@ -1,13 +1,22 @@
-*Changelogs, anyone?* **Version 1.1_Teaser**
+*Need some changelogs?* **Version 1.2_Teaser**
 
 New:
 
-- Added Changelog screen
+- *Buyable Size Changer*
+- (red)Mirror Changes(ColorEnd)
+- Achievements!
+- A little guy in the jailcell
+- Snap turning
 
 Fixed:
 
-- Footsteps playing twice every time you walk
-- (red)Crashing on Quest Pro(ColorEnd)
-- Loading times from the Raft to the Teaser
+- Lag next to Campfires
+- Lag next to Mirrors
+- Lag on load
+- Lag when in oculus menu
+- Lag when changing maps
+- Slower scene loading on Quest 2 & Pro
+- Toned down effects for quest 2
+- (red)Quest 1 support has been fully removed(ColorEnd)
 
 We are currently working on adding Multiplayer back into the game, it should arrive in a few days.
