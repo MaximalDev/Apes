@@ -5,8 +5,7 @@ New:
 - *Buyable Size Changer*
 - (red)Mirror Changes(ColorEnd)
 - Achievements!
-- A little guy in the jailcell
-- Snap turning
+- Snap turning (Broken)
 
 Fixed:
 
