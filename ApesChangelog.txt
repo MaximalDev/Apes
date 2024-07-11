@@ -2,20 +2,20 @@
 
 New:
 
-- *Speakers in the forest*
-- (red)The ground has cracked in the storage room(ColorEnd)
-- Elevator buttons function
-- Improved lighting
-- Improved Zipline logic
-- Water splashing
-- Improved lighting/visuals in the Raft
+- *Reworked Maliba Intro*
+- Upgraded Radio system
+- Snap turning
+- Improved Zipline logic (Again)
+- Added another achivemnet!
 
 Fixed:
 
-- Fixed more lag in the forest
-- Fixed weird lighting in the forest houses
-- Issues with the HyperFish model
-- Footsteps sounds may duplicate if the player hits the ground too hard 
-- Other Minor fixes
+- Fixed radio settings not saving
+- Footsteps sounds may duplicate if the player hits the ground too hard (Again)
+- Out of bounds spawning
+
+Bugs:
+
+- Radio player doesn't play when entering the map, you need to click *Skip* it to play.
 
 We are currently working on adding Multiplayer back into the game, it should arrive in a few days.
