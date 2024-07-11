@@ -1,4 +1,4 @@
-*CHANGELOGS! CHANGELOGS!* **Version 1.3_Teaser**
+*YOOO, I GOT SOME FRESH CHANGELOGS!* **Version 1.4_Teaser**
 
 New:
 
@@ -6,7 +6,7 @@ New:
 - Upgraded Radio system
 - Snap turning
 - Improved Zipline logic (Again)
-- Added another achivemnet!
+- Added another achievement!
 
 Fixed:
 
