@@ -1,21 +1,21 @@
-*Need some changelogs?* **Version 1.2_Teaser**
+*CHANGELOGS! CHANGELOGS!* **Version 1.3_Teaser**
 
 New:
 
-- *Buyable Size Changer*
-- (red)Mirror Changes(ColorEnd)
-- Achievements!
-- Snap turning (Broken)
+- *Speakers in the forest*
+- (red)The ground has cracked in the storage room(ColorEnd)
+- Elevator buttons function
+- Improved lighting
+- Improved Zipline logic
+- Water splashing
+- Improved lighting/visuals in the Raft
 
 Fixed:
 
-- Lag next to Campfires
-- Lag next to Mirrors
-- Lag on load
-- Lag when in oculus menu
-- Lag when changing maps
-- Slower scene loading on Quest 2 & Pro
-- Toned down effects for quest 2
-- (red)Quest 1 support has been fully removed(ColorEnd)
+- Fixed more lag in the forest
+- Fixed weird lighting in the forest houses
+- Issues with the HyperFish model
+- Footsteps sounds may duplicate if the player hits the ground too hard 
+- Other Minor fixes
 
 We are currently working on adding Multiplayer back into the game, it should arrive in a few days.
