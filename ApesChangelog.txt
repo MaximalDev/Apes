@@ -1,4 +1,4 @@
-*YOOO, I GOT SOME FRESH CHANGELOGS!* **Version 1.4_Teaser**
+*YOOO, I GOT SOME FRESH CHANGELOGS!* **Version 1.4.1_Teaser**
 
 New:
 
@@ -7,15 +7,17 @@ New:
 - Snap turning
 - Improved Zipline logic (Again)
 - Added another achievement!
+- Objects around the Raft
+- Snap turn toggling
+- Tip menu
 
 Fixed:
 
-- Fixed radio settings not saving
 - Footsteps sounds may duplicate if the player hits the ground too hard (Again)
 - Out of bounds spawning
 
 Bugs:
 
-- Radio player doesn't play when entering the map, you need to click *Skip* it to play.
+- After Disabling snap turn, it can't be enabled
 
 We are currently working on adding Multiplayer back into the game, it should arrive in a few days.
