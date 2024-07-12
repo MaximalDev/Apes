@@ -1,23 +1,2 @@
-*YOOO, I GOT SOME FRESH CHANGELOGS!* **Version 1.4.1_Teaser**
-
-New:
-
-- *Reworked Maliba Intro*
-- Upgraded Radio system
-- Snap turning
-- Improved Zipline logic (Again)
-- Added another achievement!
-- Objects around the Raft
-- Snap turn toggling
-- Tip menu
-
-Fixed:
-
-- Footsteps sounds may duplicate if the player hits the ground too hard (Again)
-- Out of bounds spawning
-
-Bugs:
-
-- After Disabling snap turn, it can't be enabled
-
-We are currently working on adding Multiplayer back into the game, it should arrive in a few days.
+Hey!
+Updates will be a little slower now, we are working on finishing basic Multiplayer, hopefully in a week or so it will be released.
