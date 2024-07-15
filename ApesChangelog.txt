@@ -2,9 +2,9 @@
 
 New:
 
-(red)Removed sliding: Reason: It was unstable and not great), will be added back in another form later(ColorEnd)
+- (red)Removed sliding: Reason: It was unstable and not great), will be added back in another form later(ColorEnd)
 
 Fixed:
 
-Mirror Animation replaying
-Locomotion stickiness
+- Mirror Animation replaying
+- Locomotion stickiness
