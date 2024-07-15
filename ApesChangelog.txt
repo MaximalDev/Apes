@@ -1,20 +1,10 @@
-*YAH NEW CHANGELOGS* **Version 1.5_Teaser**
+*it's changelog O'clock!* **Version 1.5.1_Teaser**
 
 New:
 
-- (red)Cave Map!(ColorEnd)
-- *Remade locomotion*
-- New sliding mechanic (very basic)
-- Thunders in the ocean!
-- Shop is blocked off
+(red)Removed sliding: Reason: It was unstable and not great), will be added back in another form later(ColorEnd)
 
 Fixed:
 
-- Loading times on quest 2
-- Random "Login failed" messages
-- Stickiness on snow
-
-Bugs:
-
-- Reflection of metal in the cave
-- Mirror cutscene audio plays when returning to the mirror area
+Mirror Animation replaying
+Locomotion stickiness
