@@ -1,10 +1,2 @@
-*it's changelog O'clock!* **Version 1.5.1_Teaser**
-
-New:
-
-- (red)Removed sliding: Reason: It was unstable and not great), will be added back in another form later(ColorEnd)
-
-Fixed:
-
-- Mirror Animation replaying
-- Locomotion stickiness
+Hey!
+Just telling you all, a new update is coming in the next few days, be ready! I won't want you to miss what we got cooking.
